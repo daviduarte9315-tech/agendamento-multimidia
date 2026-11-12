@@ -1,0 +1,8 @@
+{
+  "name": "Agenda Multimídia Escolar",
+  "description": "Sistema completo de agendamento e gestão de equipamentos tecnológicos e recursos multimídia para professores e coordenação escolar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
